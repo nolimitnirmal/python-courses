@@ -23,4 +23,3 @@ class Pokemon_Pod_Room(Scene):
 class Leaving(Scene):
     def 
     
-    
