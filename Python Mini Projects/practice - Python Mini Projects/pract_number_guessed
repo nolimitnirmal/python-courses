@@ -1,0 +1,52 @@
+import random 
+
+guesses = 0 
+
+while True:
+    top_range = input("Choose a number : ")
+
+    if top_range.isdigit():
+        max_number = int(top_range)
+        
+        if max_number <= 0:
+            print("please enter a number above 0")
+            continue
+        else:
+            break    
+            
+    else:
+        print("please enter a valid number")
+        continue
+    
+    
+random_number = random.randint(1, max_number)
+
+
+while True:
+    guesses += 1
+    user_number = input("Make a guess! : ")
+    
+    if user_number.isdigit():
+        user_number = int(user_number)
+
+        if user_number <= 0:
+            print("please enter a number above 0")
+            continue
+        else:
+            pass
+    
+    else:
+        print("please enter a valid number")
+
+    if user_number == random_number:
+        print("you got it right!")
+        break
+    elif user_number <= random_number:
+        print("too low, try again")
+        continue
+    else:
+        print("too high, try again")
+        continue
+        
+            
+print(f"You got it in {guesses} attempts!")

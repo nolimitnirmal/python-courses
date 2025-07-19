@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "title": "Learn Python the Hard Way",
+  "modules": [
+    {
+      "id": 101,
+      "title": "Module 1",
+      "lessons": [
+        { "id": 1001, "title": "Lesson 1" },
+        { "id": 1002, "title": "Lesson 2" }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Module 2",
+      "lessons": [
+        { "id": 1003, "title": "Lesson 3" },
+        { "id": 1004, "title": "Lesson 4" }
+      ]
+    }
+  ]
+}

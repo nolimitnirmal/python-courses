@@ -1,0 +1,33 @@
+
+GAME PLAN
+
+Ash has decided to become the worlds gratest pokemon trainer. H was woken up on the first day of training and has headed to proffesor Oaks Lab to pick up his new pokemon. The game is going to generate some ,dialogue as ash has gone into pick his first ever pokemon. Takes ash through different rooms and a final battle with Gary before he heads out to take over the World. 
+
+
+Each Scene:
+
+Entering the lab: Ash entyers the lab and hears a dialogue from proffesor Oak. He then asks ash if he is ready to pick his new pokemon. 
+
+Pokemon pod Lab: Ash is taken through the corridor where he is shown all the different pokemons. He has a selection of 3 pokemons. Pikachu, Squirtle and Bulbasaur. Ash has the option to pick one. 
+
+After picking his pokemon he is given his pokeballs and heads out into the world to become the very best, like no one ever was. 
+
+Nouns:
+
+Lab
+    - next scene 
+    - opening scene 
+Engine
+    - play
+Scene 
+    - Entering 
+    - Pokemon Pod Lab 
+    - Leaving 
+
+
+
+
+
+
+
+

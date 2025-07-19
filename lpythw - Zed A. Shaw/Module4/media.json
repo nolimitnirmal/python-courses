@@ -1,0 +1,8 @@
+[
+  { "lesson_id": 1001, "media_type": "video", "length": 4.5 },
+  { "lesson_id": 1001, "media_type": "video", "length": 5.0 },
+  { "lesson_id": 1002, "media_type": "video", "length": 3.25 },
+  { "lesson_id": 1003, "media_type": "video", "length": 6.0 },
+  { "lesson_id": 1004, "media_type": "video", "length": 2.75 },
+  { "lesson_id": 1004, "media_type": "audio", "length": 1.0 }
+]

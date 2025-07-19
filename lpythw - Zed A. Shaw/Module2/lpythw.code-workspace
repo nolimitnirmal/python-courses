@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "html-css-course",
+			"path": "../../projects/html-css-course"
+		},
+		{
+			"name": "lpythw",
+			"path": ".."
+		},
+		{
+			"path": "../../Documents/Python/Python Projects"
+		},
+		{
+			"path": "../../Documents/Python/Python Projects/Codedex Projects"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Gruvbox Dark Hard"
+	}
+}
