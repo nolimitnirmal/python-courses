@@ -20,6 +20,4 @@ class Pokemon_Pod_Room(Scene):
         pass
     
 
-class Leaving(Scene):
-    def 
     
